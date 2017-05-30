@@ -6,6 +6,8 @@
 * pandas
 * requests
 * pyodbc: if you want to connect to Sql Server
+#### 3. Execute write AnimalHospital\_WriteHtml.py first, then AnimalHospital\_ReadHtml 
+
 
 #### note: installing packages using pip packages management tool(After install VS 2017 with python module)
 open command line and type: pip list to try if this tool is setup successfully on the computer
