@@ -7,7 +7,7 @@
 * requests
 * pyodbc: if you want to connect to Sql Server
 
-#### installing packages using pip packages management tool(After install VS 2017 with python module)
+#### note: installing packages using pip packages management tool(After install VS 2017 with python module)
 open command line and type: pip list to try if this tool is setup successfully on the computer
 $pip list
 if True, directly type in:
