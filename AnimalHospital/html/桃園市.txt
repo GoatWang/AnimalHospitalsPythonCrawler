@@ -1,0 +1,640 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=big5">
+<title>優質動物醫院 - 桃園市</title>
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta name="Microsoft Theme" content="none, default">
+<meta name="Microsoft Border" content="none, default">
+</head>
+
+<body>
+
+<table border="0" width="1024" align="center">
+  <tr>
+    <td><img border="0" src="../1header_20150815_1.jpg"></td>
+  </tr>
+</table>
+
+<table border="0" width="1024" align="center">
+  <tr>
+    <td>
+      <p align="center"><a href="../vet_recommand.htm"><img border="0" src="../top_header_new1.gif"></a></td>
+  </tr>
+</table>
+
+<table border="0" width="1024" align="center">
+  <tr>
+    <td>
+      <p align="center"><map name="FPMap0">
+      <area href="../new_information.htm" shape="rect" coords="160, 0, 248, 45">
+      <area href="../pet_photo.htm" shape="rect" coords="263, 1, 356, 45">
+      <area href="../funny_pictures.htm" shape="rect" coords="368, 2, 461, 45">
+      <area href="../q&a.htm" shape="rect" coords="478, 1, 603, 45">
+      <area href="../shopping.htm" shape="rect" coords="619, 0, 689, 45"></map><img border="0" src="../index115.gif" usemap="#FPMap0"></td>
+  </tr>
+</table>
+
+<p>　</p>
+
+<table border="0" width="1024" align="center">
+  <tr>
+    <td>
+          <font face="新細明體"> 
+          
+          
+              <p align="center"><font color="#FF0000" size="4"><b>桃園市</b></font>          
+                </p>
+                <p align="center">　</p>
+                <p>&nbsp;<font color="#FF0000" size="3">(點選各醫院之連結網頁有醫院簡介及各項優惠辦法詳細說明。)</font></p>
+                    
+           </font>          
+      <table border="1" width="100%" bordercolor="#008000">
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%" align="center">醫院名稱</td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center">電&nbsp; 話</td>      
+          <td width="32%">   
+            <p style="line-height: 200%" align="center">地&nbsp; 址</td>     
+          <td width="12%">  
+            <p style="line-height: 200%" align="center">優質動物醫院</td>  
+          <td width="11%">  
+            <p style="line-height: 200%" align="center">現金抵用</td>  
+          <td width="13%">  
+            <p style="line-height: 200%" align="center">其他優惠</td>  
+        </tr>  
+        <tr>  
+          <td width="20%">  
+            <p style="line-height: 200%"><a href="Taoyuang/Chung_Shan_vet.htm">中山動物醫院</a></td> 
+          <td width="12%"> 
+            <p style="line-height: 200%"><font face="新細明體"><font size="3">03-4616669</font>                  
+                     
+           </font>           
+          </td> 
+          <td width="32%"> 
+            <p style="line-height: 200%"><font face="新細明體" size="3">桃園市中壢區中山東路一段154號</font></td> 
+          <td width="12%"> 
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td> 
+          <td width="11%"> 
+            <p style="line-height: 200%" align="center"><font color="#FF6600">&nbsp;</font></td> 
+          <td width="13%"> 
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%"><a href="Taoyuang/Yen_Pin_vet.htm">延平動物醫院</a></td>
+          <td width="12%">
+            <p style="line-height: 200%"><font face="新細明體"><font size="3">03-4251909</font>                 
+                    
+           </font>          
+          </td>
+          <td width="32%">
+            <p style="line-height: 200%"><font face="新細明體" size="3">桃園市中壢區延平路321號&nbsp;&nbsp;&nbsp;</font></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">&nbsp;</font></td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%"><a href="Taoyuang/Kai_Te_vet.htm">凱特動物醫院</a></td>
+          <td width="12%">
+            <p style="line-height: 200%"><font face="新細明體" size="3">03-2183833</font></td>
+          <td width="32%">
+            <p style="line-height: 200%"><font face="新細明體" size="3">桃園市</font><font size="3" face="新細明體">八德區介壽路二段260號&nbsp;&nbsp;&nbsp;</font></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">&nbsp;</font></td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%"><a href="Taoyuang/Da_An_vet.htm">大安動物醫院</a></td>
+          <td width="12%">
+            <p style="line-height: 200%"><font size="3" face="新細明體">03-3335025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+          <td width="32%">
+            <p style="line-height: 200%"><font size="3"><font face="新細明體">桃園市</font><font face="新細明體">三民路一段24號</font></font></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">&nbsp;</font></td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%"><a href="Taoyuang/Ho_Yuan_vet.htm">禾原動物醫院</a></td>
+          <td width="12%">
+            <p style="line-height: 200%"><font face="新細明體" size="3">03-3321695</font></td>
+          <td width="32%">
+            <p style="line-height: 200%"><font size="3"><font face="新細明體">桃園市</font><font face="新細明體">大有路159號</font></font></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">&nbsp;</font></td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%"><a href="Taoyuang/Ji_Bu_vet.htm">吉布動物醫院</a></td>
+          <td width="12%">
+            <p style="line-height: 200%"><font face="新細明體" size="3">03-3585664</font></td>
+          <td width="32%">
+            <p style="line-height: 200%"><font size="3"><font face="新細明體">桃園市</font><font face="新細明體">新埔七街134號</font></font></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">&nbsp;</font></td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%"><a href="Taoyuang/Jeng_Yuan_vet.htm">振源小動物專科醫院</a></td>
+          <td width="12%">
+            <p style="line-height: 200%"><font face="新細明體" size="3">03-3324825</font></td>
+          <td width="32%">
+            <p style="line-height: 200%"><font face="新細明體" size="3">桃園市中山東路215號</font></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">&nbsp;</font></td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%"><a href="Taoyuang/MongMong_Jia_vet.htm">萌萌家動物醫院</a></td>
+          <td width="12%">
+            <p style="line-height: 200%"><font face="新細明體" size="3">03-3365951</font></td>
+          <td width="32%">
+            <p style="line-height: 200%"><font face="新細明體" size="3">桃園市三民路二段254號</font></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">&nbsp;</font></td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%"><a href="Taoyuang/More_vet.htm">摩兒動物醫院</a></td>
+          <td width="12%">
+            <p style="line-height: 200%"><font face="新細明體" size="3">03-3273999</font></td>
+          <td width="32%">
+            <p style="line-height: 200%"><font face="新細明體" size="3">桃園市龜山區文興路128號</font></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">&nbsp;</font></td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%">人人動物醫院</td>
+          <td width="12%">
+            <p style="line-height: 200%"><font face="新細明體" size="3">03-4315700</font></td>
+          <td width="32%">
+            <p style="line-height: 200%"><span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">桃園市楊梅區永美路</span><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+新細明體;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-TW;
+mso-bidi-language:AR-SA">274</span><span style="font-size:12.0pt;font-family:
+新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">號</span><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+新細明體;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-TW;
+mso-bidi-language:AR-SA">1</span><span style="font-size:12.0pt;font-family:
+新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">樓</span></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">&nbsp;</font></td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%">麗園動物醫院</td>
+          <td width="12%">
+            <p style="line-height: 200%"><font face="新細明體" size="3">03-3855577</font></td>
+          <td width="32%">
+            <p style="line-height: 200%"><span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">桃園市大園區中正東路</span><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+新細明體;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-TW;
+mso-bidi-language:AR-SA">5</span><span style="font-size:12.0pt;font-family:
+新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">號</span></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">&nbsp;</font></td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%">天一動物醫院</td>
+          <td width="12%">
+            <p style="line-height: 200%"><font face="新細明體" size="3">03-4512480</font></td>
+          <td width="32%">
+            <p style="line-height: 200%"><span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">桃園市中壢區中華路一段</span><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+新細明體;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-TW;
+mso-bidi-language:AR-SA">133</span><span style="font-size:12.0pt;font-family:
+新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">號</span></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">&nbsp;</font></td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%">太樸動物醫院</td>
+          <td width="12%">
+            <p style="line-height: 200%"><font face="新細明體" size="3">03-4569911</font></td>
+          <td width="32%">
+            <p style="line-height: 200%"><span class="wordtype"><span style="font-size:12.0pt;
+font-family:新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:
+&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;
+mso-ansi-language:EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">桃園市中壢區中北路</span><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+新細明體;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-TW;
+mso-bidi-language:AR-SA">51</span><span style="font-size:12.0pt;font-family:
+新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">號</span></span></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">&nbsp;</font></td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%">恆生動物醫院</td>
+          <td width="12%">
+            <p style="line-height: 200%"><font face="新細明體" size="3">03-4251893</font></td>
+          <td width="32%">
+            <p style="line-height: 200%"><span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">桃園市中壢區中美路一段</span><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+新細明體;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-TW;
+mso-bidi-language:AR-SA">13</span><span style="font-size:12.0pt;font-family:
+新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">號</span></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">&nbsp;</font></td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%">元氣動物醫院</td>
+          <td width="12%">
+            <p style="line-height: 200%"><font face="新細明體" size="3">03-3333816</font></td>
+          <td width="32%">
+            <p style="line-height: 200%"><span class="wordtype"><span style="font-size:12.0pt;
+font-family:新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:
+&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;
+mso-ansi-language:EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">桃園市三民路三段</span><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+新細明體;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-TW;
+mso-bidi-language:AR-SA">381</span><span style="font-size:12.0pt;font-family:
+新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">號</span></span></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">&nbsp;</font></td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%">思邁爾動物醫院</td>
+          <td width="12%">
+            <p style="line-height: 200%"><font face="新細明體" size="3">03-3011515</font></td>
+          <td width="32%">
+            <p style="line-height: 200%"><span class="ya-q-full-text"><span style="font-size:12.0pt;
+font-family:新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:
+&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;
+mso-ansi-language:EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">桃園市寶慶路</span><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+新細明體;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-TW;
+mso-bidi-language:AR-SA">422</span><span style="font-size:12.0pt;font-family:
+新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">號</span></span></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">&nbsp;</font></td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%">中信動物醫院</td>
+          <td width="12%">
+            <p style="line-height: 200%"><font face="新細明體" size="3">03-4597245</font></td>
+          <td width="32%">
+            <p style="line-height: 200%"><span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">桃園市中壢區環中東路二段</span><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+新細明體;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-TW;
+mso-bidi-language:AR-SA">380</span><span style="font-size:12.0pt;font-family:
+新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">號</span><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+新細明體;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-TW;
+mso-bidi-language:AR-SA">1</span><span style="font-size:12.0pt;font-family:
+新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">樓</span></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">&nbsp;</font></td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%">琪欣動物醫院</td>
+          <td width="12%">
+            <p style="line-height: 200%"><font face="新細明體" size="3">03-3979825</font></td>
+          <td width="32%">
+            <p style="line-height: 200%"><span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">桃園市龜山區文化三路九十九號</span></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">&nbsp;</font></td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%">湖光動物醫院</td>
+          <td width="12%">
+            <p style="line-height: 200%"><font face="新細明體" size="3">03-3528861</font></td>
+          <td width="32%">
+            <p style="line-height: 200%"><span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">桃園市蘆竹區桃園街</span><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+新細明體;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-TW;
+mso-bidi-language:AR-SA">178</span><span style="font-size:12.0pt;font-family:
+新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">號</span></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">&nbsp;</font></td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%">春日動物醫院</td>
+          <td width="12%">
+            <p style="line-height: 200%"><font face="新細明體" size="3">03-3559338</font></td>
+          <td width="32%">
+            <p style="line-height: 200%"><span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">桃園市春日路</span><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+新細明體;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-TW;
+mso-bidi-language:AR-SA">977</span><span style="font-size:12.0pt;font-family:
+新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">號</span></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">&nbsp;</font></td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%">晨曦動物醫院</td>
+          <td width="12%">
+            <p style="line-height: 200%"><font face="新細明體" size="3">03-3600922</font></td>
+          <td width="32%">
+            <p style="line-height: 200%"><span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">桃園市國際路二段</span><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+新細明體;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-TW;
+mso-bidi-language:AR-SA">194</span><span style="font-size:12.0pt;font-family:
+新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">號</span></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">&nbsp;</font></td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%">普羅動物醫院</td>
+          <td width="12%">
+            <p style="line-height: 200%"><font face="新細明體" size="3">03-3789900</font></td>
+          <td width="32%">
+            <p style="line-height: 200%"><span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">桃園市中山路</span><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+新細明體;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-TW;
+mso-bidi-language:AR-SA">928</span><span style="font-size:12.0pt;font-family:
+新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">號</span></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">&nbsp;</font></td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%">寶唯動物醫院</td>
+          <td width="12%">
+            <p style="line-height: 200%"><font face="新細明體" size="3">03-3641207</font></td>
+          <td width="32%">
+            <p style="line-height: 200%"><span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">桃園市桃鶯路</span><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+新細明體;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-TW;
+mso-bidi-language:AR-SA">79</span><span style="font-size:12.0pt;font-family:
+新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">號</span></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">&nbsp;</font></td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%">游動物醫院</td>
+          <td width="12%">
+            <p style="line-height: 200%"><font face="新細明體" size="3">03-4226466</font></td>
+          <td width="32%">
+            <p style="line-height: 200%"><span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">桃園市平鎮區中原路</span><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+新細明體;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-TW;
+mso-bidi-language:AR-SA">147</span><span style="font-size:12.0pt;font-family:
+新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">號</span></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">&nbsp;</font></td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%">新世紀動物醫院</td>
+          <td width="12%">
+            <p style="line-height: 200%"><font face="新細明體" size="3">03-3328100</font></td>
+          <td width="32%">
+            <p style="line-height: 200%"><span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">桃園市萬壽路三段</span><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+新細明體;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-TW;
+mso-bidi-language:AR-SA">179</span><span style="font-size:12.0pt;font-family:
+新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">號</span></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">&nbsp;</font></td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%">和平動物醫院</td>
+          <td width="12%">
+            <p style="line-height: 200%"><font face="新細明體" size="3">03-3635820</font></td>
+          <td width="32%">
+            <p style="line-height: 200%"><span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">桃園市八德區介壽路二段</span><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+新細明體;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-TW;
+mso-bidi-language:AR-SA">113</span><span style="font-size:12.0pt;font-family:
+新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">號</span></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">&nbsp;</font></td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%">東昇動物醫院</td>
+          <td width="12%">
+            <p style="line-height: 200%"><font face="新細明體" size="3">03-4850717</font></td>
+          <td width="32%">
+            <p style="line-height: 200%"><span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">桃園市楊梅區新成路</span><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+新細明體;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-TW;
+mso-bidi-language:AR-SA">109</span><span style="font-size:12.0pt;font-family:
+新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">號</span></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">&nbsp;</font></td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+      </table>
+      <p>　
+      <p>　
+      <p>&nbsp;&nbsp; <font color="#FF6600">● </font>優質動物醫院 →      
+      本網站推薦之<a href="../vet_recommand.htm">優質動物醫院</a><p>&nbsp;&nbsp;      
+      <font color="#FF6600">●</font> 現金抵用 →      
+      適用於本網站之現金抵用辦法&nbsp;&nbsp; (辦法詳細內容將另行公佈)<p>&nbsp;&nbsp;      
+      <font color="#FF6600">●</font> 其他優惠 →      
+      該醫院自行訂定之其他優惠&nbsp;<p>　<p>　<p>　<p>　<p>　<p>　<p>　<p>　<p>　<p>　
+      <p align="center">　</td>
+  </tr>
+  <tr>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+  </tr>
+</table>
+
+<table border="0" width="1024" align="center">
+  <tr>
+    <td>
+      <p style="line-height: 150%; margin-top: 3; margin-bottom: 3"><font color="#FF6600">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</font></p>
+      <p align="center" style="line-height: 150%; margin-top: 3; margin-bottom: 3"><a href="../index.htm"><img border="0" src="../index.9.gif"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+      <a href="https://www.facebook.com/groups/461801927314512/"><img border="0" src="../index.10.gif"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+      <a href="https://www.facebook.com/Topet.net?ref=bookmarks"><img border="0" src="../index.12.gif" width="165" height="46"></a></p>    
+      <p align="center" style="line-height: 150%; margin-top: 3; margin-bottom: 3">Copyright&copy;Topweb.         
+      All right reserved.</p>        
+      <p align="center" style="line-height: 150%; margin-top: 3; margin-bottom: 3">Email:<font color="#FF6600">      
+      <a href="mailto:topet@topet.net">topet@topet.net</a></font></p>      
+      <p>　</td> 
+  </tr> 
+</table> 
+ 
+</body> 
+ 
+</html> 

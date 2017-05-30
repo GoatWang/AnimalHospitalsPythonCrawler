@@ -1,0 +1,535 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=big5">
+<title>優質動物醫院 - 台南市</title>
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta name="Microsoft Theme" content="none, default">
+<meta name="Microsoft Border" content="none, default">
+</head>
+
+<body>
+
+<table border="0" width="1024" align="center">
+  <tr>
+    <td><img border="0" src="../1header_20150815_1.jpg"></td>
+  </tr>
+</table>
+
+<table border="0" width="1024" align="center">
+  <tr>
+    <td>
+      <p align="center"><a href="../vet_recommand.htm"><img border="0" src="../top_header_new1.gif"></a></td>
+  </tr>
+</table>
+
+<table border="0" width="1024" align="center">
+  <tr>
+    <td>
+      <p align="center"><map name="FPMap0">
+      <area href="../new_information.htm" shape="rect" coords="160, 0, 248, 45">
+      <area href="../pet_photo.htm" shape="rect" coords="263, 1, 356, 45">
+      <area href="../funny_pictures.htm" shape="rect" coords="368, 2, 461, 45">
+      <area href="../q&a.htm" shape="rect" coords="478, 1, 603, 45">
+      <area href="../shopping.htm" shape="rect" coords="619, 0, 689, 45"></map><img border="0" src="../index115.gif" usemap="#FPMap0"></td>
+  </tr>
+</table>
+
+<p>　</p>
+
+<table border="0" width="1024" align="center">
+  <tr>
+    <td>
+          <font face="新細明體"> 
+          
+          
+          <p align="center"><font color="#FF0000" size="4"><b>台</b></font><b><font color="#FF0000" size="4" face="新細明體">南市</font></b>          
+                </p>
+                <p align="center">　</p>
+                <p>&nbsp;<font color="#FF0000" size="3">(點選各醫院之連結網頁有醫院簡介及各項優惠辦法詳細說明。)</font></p>
+                    
+           </font>          
+      <table border="1" width="100%" bordercolor="#008000">
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%" align="center">醫院名稱</td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center">電&nbsp; 話</td>    
+          <td width="32%"> 
+            <p style="line-height: 200%" align="center">地&nbsp; 址</td>   
+          <td width="12%">
+            <p style="line-height: 200%" align="center">優質動物醫院</td>
+          <td width="11%">
+            <p style="line-height: 200%" align="center">現金抵用</td>
+          <td width="13%">
+            <p style="line-height: 200%" align="center">其他優惠</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%"><a href="TaiNan/ChunAi_vet.htm">崇愛動物醫院</a></td>
+          <td width="12%">
+            <p style="line-height: 200%">06-2604733</td>
+          <td width="32%">
+            <p style="line-height: 200%">台南市崇明路463號</td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">　</td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%"><a href="TaiNan/Le_Jen_vet.htm">樂仁動物醫院</a></td>
+          <td width="12%">
+            <p style="line-height: 200%"><font size="3" face="新細明體">06-6325807&nbsp;&nbsp;&nbsp;</font></td>
+          <td width="32%">
+            <p style="line-height: 200%">台南市<font face="新細明體" size="3">新營區民治路6-43號</font></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">　</td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%"><a href="TaiNan/Yu_Ai_vet.htm">友愛動物醫院</a></td>
+          <td width="12%">
+            <p style="line-height: 200%"><font size="3">06-2222510</font>                 
+                    
+          </td>
+          <td width="32%">
+            <p style="line-height: 200%"><font size="3">台南市<font face="新細明體">友愛街277號</font></font></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">　</td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%"><span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">光微動物醫院</span></td>
+          <td width="12%">
+            <p style="line-height: 200%"><font size="3">06-6350656</font>          
+          </td>
+          <td width="32%">
+            <p style="line-height: 200%"><span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">台南市新營區健康路</span><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+新細明體;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-TW;
+mso-bidi-language:AR-SA">32</span><span style="font-size:12.0pt;font-family:
+新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">號</span></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">　</td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%"><span style="font-size: 12.0pt; font-family: 新細明體; mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; mso-bidi-font-family: Times New Roman; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA">中</span><span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">美動物醫院</span></td>
+          <td width="12%">
+            <p style="line-height: 200%"><font size="3">06-2812233</font>          
+          </td>
+          <td width="32%">
+            <p style="line-height: 200%"><span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">台南市和緯路</span><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+新細明體;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-TW;
+mso-bidi-language:AR-SA">2</span><span style="font-size:12.0pt;font-family:
+新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">段</span><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+新細明體;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-TW;
+mso-bidi-language:AR-SA">231</span><span style="font-size:12.0pt;font-family:
+新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">號</span></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">　</td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%"><span style="font-size: 12.0pt; font-family: 新細明體; mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; mso-bidi-font-family: Times New Roman; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA">廣</span><span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">慈動物醫院</span></td>
+          <td width="12%">
+            <p style="line-height: 200%"><font size="3">06-2288126</font>          
+          </td>
+          <td width="32%">
+            <span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">台南市中西區府前路二段</span><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+新細明體;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-TW;
+mso-bidi-language:AR-SA">199</span><span style="font-size:12.0pt;font-family:
+新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">號</span></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">　</td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%"><span style="font-size: 12.0pt; font-family: 新細明體; mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; mso-bidi-font-family: Times New Roman; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA">瑞</span><span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">慶動物醫院</span></td>
+          <td width="12%">
+            <p style="line-height: 200%"><font size="3">06-2146651</font>          
+          </td>
+          <td width="32%">
+            <span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">台南市中西區府連路</span><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+新細明體;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-TW;
+mso-bidi-language:AR-SA">31</span><span style="font-size:12.0pt;font-family:
+新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">號</span></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">　</td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%"><span style="font-size: 12.0pt; font-family: 新細明體; mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; mso-bidi-font-family: Times New Roman; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA">長</span><span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">弘動物醫院</span></td>
+          <td width="12%">
+            <p style="line-height: 200%"><font size="3">06-2323377</font>          
+          </td>
+          <td width="32%">
+            <span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">台南市永康區正強街</span><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+新細明體;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-TW;
+mso-bidi-language:AR-SA">139</span><span style="font-size:12.0pt;font-family:
+新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">號</span></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">　</td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%"><span style="font-size: 12.0pt; font-family: 新細明體; mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; mso-bidi-font-family: Times New Roman; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA">康</span><span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">翔動物醫院</span></td>
+          <td width="12%">
+            <p style="line-height: 200%"><font size="3">06-6359911</font>          
+          </td>
+          <td width="32%">
+            <span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">台南市新營區長榮路一段</span><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+新細明體;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-TW;
+mso-bidi-language:AR-SA">335</span><span style="font-size:12.0pt;font-family:
+新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">號</span></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">　</td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%"><span style="font-size: 12.0pt; font-family: 新細明體; mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; mso-bidi-font-family: Times New Roman; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA">佳</span><span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">諾動物醫院</span></td>
+          <td width="12%">
+            <p style="line-height: 200%"><font size="3">06-2313399</font>          
+          </td>
+          <td width="32%">
+            <span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">台南市永康區中華路</span><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+新細明體;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-TW;
+mso-bidi-language:AR-SA">638</span><span style="font-size:12.0pt;font-family:
+新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">號</span></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">　</td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%"><span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">快樂動物醫院</span></td>
+          <td width="12%">
+            <p style="line-height: 200%">06-3131300          
+          </td>
+          <td width="32%">
+            <span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">台南市永康區復興路</span><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+新細明體;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-TW;
+mso-bidi-language:AR-SA">380</span><span style="font-size:12.0pt;font-family:
+新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">號</span></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">　</td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%"><span style="font-size: 12.0pt; font-family: 新細明體; mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; mso-bidi-font-family: Times New Roman; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA">強</span><span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">生動物醫院</span></td>
+          <td width="12%">
+            <p style="line-height: 200%"><font size="3">06-2289951</font>          
+          </td>
+          <td width="32%">
+            <span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">台南市中西區成功路</span><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+新細明體;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-TW;
+mso-bidi-language:AR-SA">357</span><span style="font-size:12.0pt;font-family:
+新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">號</span></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">　</td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%"><span style="font-size: 12.0pt; font-family: 新細明體; mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; mso-bidi-font-family: Times New Roman; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA">百</span><span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">利動物醫院</span></td>
+          <td width="12%">
+            <p style="line-height: 200%"><font size="3">06-7235899</font>          
+          </td>
+          <td width="32%">
+            <span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">台南市佳里區建中街</span><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+新細明體;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-TW;
+mso-bidi-language:AR-SA">46</span><span style="font-size:12.0pt;font-family:
+新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">號</span></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">　</td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%"><span style="font-size: 12.0pt; font-family: 新細明體; mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; mso-bidi-font-family: Times New Roman; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA">奇</span><span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">異果動物醫院</span></td>
+          <td width="12%">
+            <p style="line-height: 200%"><font size="3">06-2985911</font>          
+          </td>
+          <td width="32%">
+            <span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">台南市安平區平通路</span><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+新細明體;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-TW;
+mso-bidi-language:AR-SA">377</span><span style="font-size:12.0pt;font-family:
+新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">號</span></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">　</td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%"><span style="font-size: 12.0pt; font-family: 新細明體; mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; mso-bidi-font-family: Times New Roman; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA">祥</span><span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">泰動物醫院</span></td>
+          <td width="12%">
+            <p style="line-height: 200%"><font size="3">06-2731858</font>          
+          </td>
+          <td width="32%">
+            <span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">台南市永康區大灣路</span><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+新細明體;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-TW;
+mso-bidi-language:AR-SA">340</span><span style="font-size:12.0pt;font-family:
+新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">號</span></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">　</td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%"><span style="font-size: 12.0pt; font-family: 新細明體; mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; mso-bidi-font-family: Times New Roman; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA">詹</span><span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">姆斯動物醫院</span></td>
+          <td width="12%">
+            <p style="line-height: 200%"><font size="3">06-2157057</font>          
+          </td>
+          <td width="32%">
+            <span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">台南市中西區南門路</span><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+新細明體;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-TW;
+mso-bidi-language:AR-SA">179-4</span><span style="font-size:12.0pt;font-family:
+新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">號</span></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">　</td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%"><span style="font-size: 12.0pt; font-family: 新細明體; mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; mso-bidi-font-family: Times New Roman; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA">府</span><span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">城動物醫院</span></td>
+          <td width="12%">
+            <p style="line-height: 200%"><font size="3">06-2215138</font>          
+          </td>
+          <td width="32%">
+            <span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">台南市中西區成功路</span><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+新細明體;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-TW;
+mso-bidi-language:AR-SA">291</span><span style="font-size:12.0pt;font-family:
+新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">號</span></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">　</td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+        <tr>
+          <td width="20%">
+            <p style="line-height: 200%"><span style="font-size: 12.0pt; font-family: 新細明體; mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; mso-bidi-font-family: Times New Roman; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA">新</span><span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">生動物醫院</span></td>
+          <td width="12%">
+            <p style="line-height: 200%"><font size="3">06-2266031</font>          
+          </td>
+          <td width="32%">
+            <span style="font-size:12.0pt;font-family:新細明體;
+mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">台南市南區國華街一段</span><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+新細明體;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-TW;
+mso-bidi-language:AR-SA">126</span><span style="font-size:12.0pt;font-family:
+新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA">號</span></td>
+          <td width="12%">
+            <p style="line-height: 200%" align="center"><font color="#FF6600">●</font></td>
+          <td width="11%">　</td>
+          <td width="13%">
+            <p style="line-height: 200%">　</td>
+        </tr>
+      </table>
+      <p>　
+      <p>　
+      <p>&nbsp;&nbsp; <font color="#FF6600">● </font>優質動物醫院 →    
+      本網站推薦之<a href="../vet_recommand.htm">優質動物醫院</a><p>&nbsp;&nbsp;    
+      <font color="#FF6600">●</font> 現金抵用 →    
+      適用於本網站之現金抵用辦法&nbsp;&nbsp; (辦法詳細內容將另行公佈)<p>&nbsp;&nbsp;    
+      <font color="#FF6600">●</font> 其他優惠 →    
+      該醫院自行訂定之其他優惠&nbsp;<p>　<p>　<p>　<p>　<p>　<p>　<p>　
+      <p align="center">　
+      <p align="center">　
+      <p align="center">　
+      <p align="center">　
+      <p align="center">　
+      <p align="center">　
+      <p align="center">　
+      <p align="center">　</td>
+  </tr>
+  <tr>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+  </tr>
+</table>
+
+<table border="0" width="1024" align="center">
+  <tr>
+    <td>
+      <p style="line-height: 150%; margin-top: 3; margin-bottom: 3"><font color="#FF6600">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</font></p>
+      <p align="center" style="line-height: 150%; margin-top: 3; margin-bottom: 3"><a href="../index.htm"><img border="0" src="../index.9.gif"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+      <a href="https://www.facebook.com/groups/461801927314512/"><img border="0" src="../index.10.gif"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+      <a href="https://www.facebook.com/Topet.net?ref=bookmarks"><img border="0" src="../index.12.gif" width="165" height="46"></a></p>  
+      <p align="center" style="line-height: 150%; margin-top: 3; margin-bottom: 3">Copyright&copy;Topweb.       
+      All right reserved.</p>      
+      <p align="center" style="line-height: 150%; margin-top: 3; margin-bottom: 3">Email:<font color="#FF6600">    
+      <a href="mailto:topet@topet.net">topet@topet.net</a></font></p>    
+      <p>　</td> 
+  </tr> 
+</table> 
+ 
+</body> 
+ 
+</html> 
