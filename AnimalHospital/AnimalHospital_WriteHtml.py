@@ -6,7 +6,7 @@ from pprint import pprint  ##pretty print
 ##送出Http請求，把請求回來的結果打包成re物件
 re = requests.get("https://topet.net/vet_recommand.htm")
 
-##設定re物件的讀取編碼(可以直接看網頁上的head的部分，找到編碼)
+##設定re物件的讀取編碼(可以直接看網頁上的head的部分，找到編碼)，這個部分要很注意，大部分網頁都已經使用utf8，cp950、big5比較少見
 re.encoding = "big5"
 
 ##叫出re物件的text屬性，也就會是html原始檔
@@ -49,8 +49,8 @@ a_list = soup.find_all("a")
 href_list = []
 href_dict = {}  ##用字典屬性可以儲存，ket以及value
 for i in range(2,19):
-href_list.append('https://topet.net/' + a_list[i]['href'])
-href_dict[a_list[i].string] = 'https://topet.net/' + a_list[i]['href']
+    href_list.append('https://topet.net/' + a_list[i]['href'])
+    href_dict[a_list[i].string] = 'https://topet.net/' + a_list[i]['href']
 
 
 #pprint(href_list)
@@ -87,19 +87,20 @@ href_dict[a_list[i].string] = 'https://topet.net/' + a_list[i]['href']
 ### '高雄市': 'https://topet.net/vet_list/vet_Kaohsiung.htm'}
 
 
-##對每個連結發出請求，並存成html檔
+##對每個連結發出請求，並存成html檔(自己重新跑一次的話，記得先做一個資料夾，命名為html)
 for key, value in href_dict.items():    #.items()的方法，可以直接在迴圈中叫用key跟value
-re= requests.get(value)
-re.encoding = 'big5'
-html_text = re.text
-file = open('html/' + key+'.txt','w',encoding='utf8')  #open:打開一個文件，key+'.txt':檔名，'w':寫入模式，encoding:打開文件的編碼
-file.write(html_text)
-file.close()
+    re= requests.get(value)
+    re.encoding = 'big5'
+    html_text = re.text
+    file = open('html/' + key+'.txt','w',encoding='utf8')  #open:打開一個文件，key+'.txt':檔名，'w':寫入模式('r':讀取模式)，encoding:打開文件的編碼
+    file.write(html_text)
+    file.close()
 
 
 ##為了等等叫用html檔方便，先把檔案名稱存起來
 file = open('keys.txt','w',encoding='utf8')
 for key in href_dict:
-file.writelines(key + '\n')
+    file.writelines(key + '\n')
+
 file.close()
 
