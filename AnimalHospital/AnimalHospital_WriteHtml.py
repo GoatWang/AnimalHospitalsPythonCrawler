@@ -12,8 +12,9 @@ re.encoding = "big5"
 ##叫出re物件的text屬性，也就會是html原始檔
 html_text = re.text
 
-##用BeautifulSoup解析HTML文件(跑出的警告不用理他)
-soup = BeautifulSoup(html_text,'lxml')
+##用BeautifulSoup解析HTML文件(跑出的警告不用理他，lxml只是一個解譯器，官方推薦使用，但沒有使用也不太妨礙，如果有興趣下載請見:https://www.zhihu.com/question/49320162)
+soup = BeautifulSoup(html_text)
+#soup = BeautifulSoup(html_text,'lxml')
 
 ##用裡面的find_all方法，找出所有有<a>標籤的部分
 a_list = soup.find_all("a")

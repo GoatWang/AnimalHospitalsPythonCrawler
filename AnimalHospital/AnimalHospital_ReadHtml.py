@@ -25,7 +25,9 @@ def ReadHtmlAsTable(path, place):
     file.close()
     
     ##把文件中需要的table節取出來
-    soup = BeautifulSoup(html_text,'lxml')
+    soup = BeautifulSoup(html_text)
+    #soup = BeautifulSoup(html_text,'lxml')
+
     tables = soup.find_all('table')
     NeededTable = str(tables[4])
 
