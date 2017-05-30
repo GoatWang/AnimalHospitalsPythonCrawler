@@ -32,7 +32,8 @@ def ReadHtmlAsTable(path, place):
     NeededTable = str(tables[4])
 
     ##把節取出的table轉換成dataframe型別
-    ##請注意，這是pandas最厲害的地方，他可以直接把html格式的table轉換成，可被處理的dataframe
+    ##請注意，這是pandas最厲害的地方，他可以直接把html格式的table轉換成可被處理的dataframe
+    ##另外，如果表格形式簡單的話，可以直接把html url傳進去，會回傳包括網也上的所有table的list回來
     ##(C#我此時上網找了一下，還沒有那麼好用的套件，要自己拆tag)
     df_hospitals = pd.read_html(NeededTable,encoding='utf8')[0]
 
@@ -57,7 +58,7 @@ def ReadHtmlAsTable(path, place):
     ## inplace=1 == df_hospitals = df_hospitals.drop('其他優惠',axis=1)
     df_hospitals.drop('其他優惠',axis=1,inplace=True)
 
-    ##定義一個可以被下面一行apply的方法
+    ##定義一個可以被下面一行df_hospitals apply的方法
     def ReplaceNanAndBool(row):
         if pd.isnull(row['優質動物醫院']):  ## To replace its special character　with bool type value
             row['優質動物醫院']=False

@@ -48,7 +48,7 @@ a_list = soup.find_all("a")
 
 ##找出第二個到第十八個
 href_list = []
-href_dict = {}  ##用字典屬性可以儲存，ket以及value
+href_dict = {}  ##用字典屬性可以儲存，key以及value
 for i in range(2,19):
     href_list.append('https://topet.net/' + a_list[i]['href'])
     href_dict[a_list[i].string] = 'https://topet.net/' + a_list[i]['href']
@@ -88,7 +88,7 @@ for i in range(2,19):
 ### '高雄市': 'https://topet.net/vet_list/vet_Kaohsiung.htm'}
 
 
-##對每個連結發出請求，並存成html檔(自己重新跑一次的話，記得先做一個資料夾，命名為html)
+##對每個連結發出請求，並存成html檔(自己重新跑一次的話，記得先做一個資料夾在根目錄，命名為html)
 for key, value in href_dict.items():    #.items()的方法，可以直接在迴圈中叫用key跟value
     re= requests.get(value)
     re.encoding = 'big5'
