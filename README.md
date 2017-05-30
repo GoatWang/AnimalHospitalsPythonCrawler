@@ -20,6 +20,6 @@ if True, there will be a list of what packages you have installed on your comput
         $pip install requests
         $pip install pyodbc
 
-if there is any error, contact directly: https://www.facebook.com/jeremy45555
+if there is any error, contact me directly: https://www.facebook.com/jeremy45555
 
 
