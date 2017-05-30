@@ -11,12 +11,12 @@
 
 #### note: installing packages using pip packages management tool(After install VS 2017 with python module)
 open command line and type: pip list to try if this tool is setup successfully on the computer
-$pip list
+    $pip list
 if True, directly type in:
-$pip install beautifulsoup4
-$pip install pandas
-$pip install requests
-$pip install pyodbc
+    $pip install beautifulsoup4
+    $pip install pandas
+    $pip install requests
+    $pip install pyodbc
 
 if there is any error, contact directly: https://www.facebook.com/jeremy45555
 
