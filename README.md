@@ -13,7 +13,7 @@
 open command line and type: pip list to try if this tool is setup successfully on the computer
 
         $pip list
-if True, directly type in:
+if True, there will be a list of what packages you have installed on your computer, and you can directly type in following code to install packages:
 
         $pip install beautifulsoup4
         $pip install pandas
