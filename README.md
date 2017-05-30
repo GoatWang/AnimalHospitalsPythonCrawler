@@ -1,7 +1,7 @@
 # AnimalHospitalsPythonCrawler
 
 #### 1. you should setup VS 2017 with python module on your computer
-#### 2. some package should be installed in python first:
+#### 2. some packages should be installed in python first:
 * beautifulsoup4
 * pandas
 * requests
