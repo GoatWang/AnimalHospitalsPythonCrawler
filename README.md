@@ -13,12 +13,17 @@
 open command line and type: pip list to try if this tool is setup successfully on the computer
 
         $pip list
+
+if not, You have to add "C:\Program Files\Python36" and "C:\Program Files\Python36\Scripts" into your environment path yourself.
+
 if True, there will be a list of what packages you have installed on your computer, and you can directly type in following code to install packages:
 
         $pip install beautifulsoup4
         $pip install pandas
         $pip install requests
         $pip install pyodbc
+        $pip install pprint
+        
 
 if there is any error, contact me directly: https://www.facebook.com/jeremy45555
 
