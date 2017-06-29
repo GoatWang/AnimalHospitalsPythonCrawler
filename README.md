@@ -1,12 +1,12 @@
 # AnimalHospitalsPythonCrawler
 
-#### 1. you should setup VS 2017 with python module on your computer
+#### 1. you should setup VS 2017 with python module on your computer(Alternatively, you can directly open python file with your IDE)
 #### 2. some packages should be installed in python first:
 * beautifulsoup4
 * pandas
 * requests
 * pyodbc: if you want to connect to Sql Server
-#### 3. Execute AnimalHospital\_WriteHtml.py first, then AnimalHospital\_ReadHtml.py
+#### 3. Execute AnimalHospital\_WriteHtml.py first, then AnimalHospital\_ReadHtml.py(If you have time you can see AnimalHospitalDetail.py, however, this is not neccessory)
 
 
 #### note: installing packages using pip packages management tool(After install VS 2017 with python module)

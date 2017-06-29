@@ -32,7 +32,7 @@ def AddDownToAbove(df_hospital):
         if i == index+1:
             duplicateLi.append(i)
         index = i
-    ##當沒有連號時就回回傳空list，h3g6dk3u3uwl4jt joc6fm0
+    ##當沒有連號時就回傳空list，此時可以跳出迴圈
     if (duplicateLi==[]):
         return False
     

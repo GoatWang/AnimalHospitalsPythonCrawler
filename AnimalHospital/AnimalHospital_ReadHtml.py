@@ -106,7 +106,18 @@ def WriteDfIntoSql(df):
     cursor.close()
     conn.close()
 
+def WriteDfIntoCsv(key, df):
+    df.to_csv(key)
+
+
+
 ##每個html檔都跑過上面定義的兩個方法
 for key, value in filepath_dict.items():
     df = ReadHtmlAsTable(value,key)
-    WriteDfIntoSql(df)
+    
+    ## There are two choice:
+    ## if you want to insert into MS Sql, take off this nnote mark
+    #WriteDfIntoSql(df)
+    
+    ## Second, to csv
+    WriteDfIntoCsv(key, df)
